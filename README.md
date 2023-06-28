@@ -26,4 +26,3 @@ References:
 
 1. Jacob Gildenblat, & contributors. (2021). PyTorch library for CAM methods. [](https://github.com/jacobgil/pytorch-grad-cam)
 2. David. P. Hughes, & Marcel Salathe. (2016). An open access repository of images on plant health to enable the development of mobile disease diagnostics.
-3. 
