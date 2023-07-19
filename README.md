@@ -6,7 +6,7 @@ This notebook uses pre-trained baseline models trained on Plant Village datasets
 
 This notebook uses pre-trained baseline models trained on Plant Village datasets and fine tunes it with the Onion Dataset to perform multi-class classification on 4 classes: 'Basal rot', 'Bulb rot seed crop', 'Damping off disease', 'Healthy'.
 
-### Mpytorch_AgroML_Plant_Diseases_Detection.ipynb
+### Pytorch_AgroML_Plant_Diseases_Detection.ipynb
 
 This notebook does the pre-training of the baseline models(resnet,densenet,vgg,alexnet etc.) on the Plant Village Dataset. One can perform both Feature Extraction or Fine-tuning with the Plant Village dataset using the code.
 
