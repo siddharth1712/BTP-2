@@ -2,7 +2,7 @@
 
 This notebook uses pre-trained baseline models trained on Plant Village datasets and fine tunes it with the Onion Dataset to perform binary classification of onion crop into healthy and diseased.
 
-### Multi_OnionClassificatio.ipynb
+### Multi_OnionClassification.ipynb
 
 This notebook uses pre-trained baseline models trained on Plant Village datasets and fine tunes it with the Onion Dataset to perform multi-class classification on 4 classes: 'Basal rot', 'Bulb rot seed crop', 'Damping off disease', 'Healthy'.
 
